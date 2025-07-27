@@ -1,0 +1,3 @@
+[build]
+command = "python build.py"   # or your build script that generates static files
+publish = "public"            # folder with static site output
